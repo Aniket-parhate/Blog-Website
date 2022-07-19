@@ -33,7 +33,7 @@
                 <div class="container">
                     <h3 class="display-3">Welcome to TechBlog </h3>
 
-                    <p>Welcome to technical blog, world of technology
+                    <p>Welcome to Tech blog, world of technology
                         A programming language is a formal language, which comprises a set of instructions that produce various kinds of output. Programming languages are used in computer programming to implement algorithms.
                     </p>
                     <p>
